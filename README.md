@@ -1,3 +1,4 @@
 # hello-world
 Just another repository
-this is a test text
+hubbot here, i like node.j and cooffescript
+muahahah
